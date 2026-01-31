@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Beatriz! 👋
 
-<!--
-**beatrizsuzumura/BeatrizSuzumura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Consultant | Business Economics & Strategy
+Specializing in the intersection of **Data Intelligence** and the **Fashion & Luxury Market**. I focus on transforming complex retail data and financial metrics into high-level strategic insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Expertise
+- **Data & Analytics:** Python (Pandas, Scikit-learn), SQL, and Data Visualization.
+- **AI for Business:** Generative AI, Prompt Engineering, and Local LLMs for market analysis.
+- **Strategic Finance:** Financial Modeling, Controllership, and Market Intelligence.
+
+### 🎓 Background
+- **Business Economics & Controllership** - University of São Paulo (USP).
+- Academic and professional focus on global luxury markets and high-growth business environments.
+
+---
+
+### 💡 Mission
+Bridging the gap between technical data science and high-level business strategy to shape the future of the fashion industry.
